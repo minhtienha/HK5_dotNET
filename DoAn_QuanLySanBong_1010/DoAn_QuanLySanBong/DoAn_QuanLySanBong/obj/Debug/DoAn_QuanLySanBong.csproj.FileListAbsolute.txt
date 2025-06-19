@@ -1,0 +1,246 @@
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Form1.resources
+C:\Users\admin\Desktop\Ôn tập lập trình web\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Form2.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+F:\0 HK1 Năm 3\Công nghệ .Net\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.NhanSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.NhanSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.NhanSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.NhanSan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.NhanSan.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong123\DoAn_QuanLySanBong12_25\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_23_57\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_8\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\hodan\OneDrive\Máy tính\Working_11_14\.NET\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+F:\_HK1 Năm 3\Công nghệ .Net\CurrentWork\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_14_12_22h00\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong_0314\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong_0314\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\DoAn_QuanLySanBong_0314\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\hodan\OneDrive\Máy tính\Working_11_22\.NET\DoAn\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\Admin\Documents\Zalo Received Files\DoAn_QuanLySanBong_16-12_19h30\DoAn_QuanLySanBong\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe.config
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\bin\Debug\DoAn_QuanLySanBong.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangKy.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DangNhap.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanSu.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLySan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.DaDatSan.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Home.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyKhachHang.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.Properties.Resources.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.ThongKe.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\CongNgheNET\zDoAnNET\DoAn_QuanLySanBong_1010\DoAn_QuanLySanBong\DoAn_QuanLySanBong\obj\Debug\DoAn_QuanLySanBong.csproj.GenerateResource.Cache
